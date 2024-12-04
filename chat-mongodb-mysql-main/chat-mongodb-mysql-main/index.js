@@ -73,5 +73,5 @@ io.on('connection', socket=>{
 })
 
 server.listen(3000, () => {
-    console.log('TA RODANDO CARALHO! => http://localhost:3000')
+    console.log('O SERVIDOR ESTÁ RODANDO! => http://localhost:3000')
 });
