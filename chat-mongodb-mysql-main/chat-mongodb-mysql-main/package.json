@@ -1,0 +1,25 @@
+{
+  "name": "chat-mongodb-mysql",
+  "version": "1.0.0",
+  "description": "Repositório destinado a fazer um web chat hibrído, utilizando mysql e mongodb",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "keywords": [
+    "mongodb",
+    "bd3",
+    "mysql",
+    "chat",
+    "websocket"
+  ],
+  "author": "Bruno Ferreira da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.3",
+    "nodemon": "^3.1.7",
+    "socket.io": "^4.8.1"
+  }
+}
