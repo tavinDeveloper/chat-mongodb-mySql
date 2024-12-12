@@ -1,7 +1,7 @@
 {
   "name": "chat-mongodb-mysql",
   "version": "1.0.0",
-  "description": "Repositório destinado a fazer um web chat hibrído, utilizando mysql e mongodb",
+  "description": "Aplicação de um chat web hibrído, utilizando mysql e mongodb",
   "main": "index.js",
   "scripts": {
     "start": "nodemon src/index.js"
